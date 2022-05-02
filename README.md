@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yared-betsega
 - 👀 I’m interested in coding, football
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Mobile app developement with flutter, web developement...
 - 📫 How to reach me: yaredtsegaye120@gmail.com
 
 <!---
