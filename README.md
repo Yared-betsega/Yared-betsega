@@ -6,6 +6,7 @@
   - 💞️ Web Developement...
     - Front-end developement with React and nextJs, Tailwind and bootstrab, 
     - Back-end developement with node using Express.js, mongoDB
+    - Spring-Boot using Java with mysql database
 - 📫 How to reach me: yaredtsegaye120@gmail.com
 
 <!---
