@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Yared-betsega
 - 👀 I’m interested in coding, football
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on ... Mobile app developement with flutter, web developement...
+- 🌱 I’m currently learning Software Engineering in Addis Ababa University.
+- 💞️ I’m looking to collaborate on
+  - 💞️ Mobile app developement with flutter, 
+  - 💞️ Web Developement...
+    - Front-end developement with React and nextJs, Tailwind and bootstrab, 
+    - Back-end developement with node using Express.js, mongoDB
 - 📫 How to reach me: yaredtsegaye120@gmail.com
 
 <!---
