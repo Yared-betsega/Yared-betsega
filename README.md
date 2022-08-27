@@ -1,3 +1,7 @@
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 👋 Hi, I’m @Yared-betsega
 - 👀 I’m interested in coding, football
 - 🌱 I’m currently learning Software Engineering in Addis Ababa University.
