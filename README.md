@@ -15,4 +15,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@yared/31951179-9a60-492b-9a1f-21c2583ab1d8.svg"></embed></figure>
+<img src="https://wakatime.com/share/@yared/31951179-9a60-492b-9a1f-21c2583ab1d8.svg"/>
