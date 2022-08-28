@@ -13,6 +13,11 @@
 - My weekly status
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img src="[https://wakatime.com/share/@yared/31951179-9a60-492b-9a1f-21c2583ab1d8.svg](https://wakatime.com/share/@yared/71eac2c8-851e-4d89-a13d-b1fa1c9ba55e.svg)"/>
