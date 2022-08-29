@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart         38 mins         █████████████▓░░░░░░░░░░░   54.66 %
+TypeScript   30 mins         ███████████░░░░░░░░░░░░░░   44.07 %
+Swift        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
