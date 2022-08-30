@@ -15,10 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 37 mins    █████████████████▓░░░░░░░   71.33 %
-Dart         38 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Swift        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+From: 27 August 2022 - To: 28 August 2022
+
+Total Time: 1 hr 10 mins
+
+Dart         38 mins         >>>>>>>>>>>>>>-----------   54.66 %
+TypeScript   30 mins         >>>>>>>>>>>--------------   44.07 %
+Swift        0 secs          -------------------------   01.07 %
+YAML         0 secs          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
