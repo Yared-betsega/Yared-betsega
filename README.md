@@ -1,4 +1,5 @@
 <h1>Personal Details</h1>
+
 - 👋 Hi, I’m @Yared-betsega
 - 👀 I’m interested in coding, football
 - 🌱 I’m currently learning Software Engineering in Addis Ababa University.
