@@ -8,7 +8,7 @@
     - Back-end developement with node using Express.js, mongoDB
     - Spring-Boot using Java with mysql database
 - 📫 How to reach me: yaredtsegaye120@gmail.com
-<div style = "display: flex;">
+<div style = "display: flex; justify-content: space-between;">
   <div>
     <img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </div>
