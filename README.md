@@ -8,7 +8,16 @@
     - Back-end developement with node using Express.js, mongoDB
     - Spring-Boot using Java with mysql database
 - 📫 How to reach me: yaredtsegaye120@gmail.com
-<img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<div style = "display: flex;">
+  <div>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</div>
+  <div>
+  <img src="https://wakatime.com/share/@yared/fdfb4118-0b6a-493f-b4c2-34a19873cb41.svg" width = "60%" height/>
+
+</div>
+</div>
+
 
 - My weekly status
 
@@ -25,4 +34,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img src="https://wakatime.com/share/@yared/ed1c3cca-770b-4d68-a5e3-6dd22b30961f.svg" width = "60%" height/>
