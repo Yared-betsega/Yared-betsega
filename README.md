@@ -25,4 +25,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img src="[https://wakatime.com/share/@yared/31951179-9a60-492b-9a1f-21c2583ab1d8.svg](https://wakatime.com/share/@yared/71eac2c8-851e-4d89-a13d-b1fa1c9ba55e.svg)"/>
+<img src="https://wakatime.com/share/@yared/ed1c3cca-770b-4d68-a5e3-6dd22b30961f.svg"/>
