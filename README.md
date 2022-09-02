@@ -13,7 +13,7 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </div>
   <div>
-  <img src="https://wakatime.com/share/@yared/fdfb4118-0b6a-493f-b4c2-34a19873cb41.svg" width = "60%" height/>
+  <img src="https://wakatime.com/share/@yared/fdfb4118-0b6a-493f-b4c2-34a19873cb41.svg" width = "40%" height/>
 
 </div>
 </div>
