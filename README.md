@@ -8,10 +8,11 @@
     - Back-end developement with node using Express.js, mongoDB
     - Spring-Boot using Java with mysql database
 - 📫 How to reach me: yaredtsegaye120@gmail.com
-- 
+
+
 <div style = "width="100%" class="flex-container">
-<img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img src="https://wakatime.com/share/@yared/fdfb4118-0b6a-493f-b4c2-34a19873cb41.svg" width = "40%" height/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 200px/>
+<img  src="https://wakatime.com/share/@yared/8fd28093-d149-4777-bb8d-3feefd8d3fc0.svg" width = "40%" height = "20%"/>
 </div>
 
 
