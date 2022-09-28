@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   2 mins          ████████████████████████░   96.66 %
-Bash   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
