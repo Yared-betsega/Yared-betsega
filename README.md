@@ -23,8 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 26 mins   █████████████████████████   99.36 %
-Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python       3 hrs 26 mins   ██████████████████▓░░░░░░   75.22 %
+Java         1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
