@@ -23,7 +23,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 August 2022 - To: 12 December 2022
+
+Total Time: 103 hrs 13 mins
+
+Python       58 hrs 17 mins  >>>>>>>>>>>>>>-----------   56.48 %
+TypeScript   36 hrs 50 mins  >>>>>>>>>----------------   35.69 %
+C++          3 hrs 1 min     >------------------------   02.93 %
+Java         1 hr 38 mins    -------------------------   01.60 %
+Go           1 hr 7 mins     -------------------------   01.09 %
+Bash         1 hr 1 min      -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
