@@ -23,7 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go                2 hrs 28 mins   █████████████████████▒░░░   84.94 %
+Protocol Buffer   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+JSON              9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
