@@ -23,12 +23,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                13 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   41.39 %
-TypeScript        10 hrs 46 mins  ████████░░░░░░░░░░░░░░░░░   31.91 %
-SCSS              3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Python            2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Protocol Buffer   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-YAML              32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+From: 27 August 2022 - To: 21 December 2022
+
+Total Time: 147 hrs 39 mins
+
+Python            60 hrs 54 mins  >>>>>>>>>>---------------   41.25 %
+TypeScript        47 hrs 37 mins  >>>>>>>>-----------------   32.26 %
+Go                24 hrs 32 mins  >>>>---------------------   16.63 %
+SCSS              3 hrs 49 mins   >------------------------   02.59 %
+C++               3 hrs 1 min     >------------------------   02.05 %
+Java              1 hr 38 mins    -------------------------   01.12 %
 ```
 
 <!--END_SECTION:waka-->
