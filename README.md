@@ -23,16 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 August 2022 - To: 19 February 2023
-
-Total Time: 250 hrs 49 mins
-
-Python            85 hrs 3 mins   >>>>>>>>-----------------   33.91 %
-TypeScript        79 hrs 18 mins  >>>>>>>>-----------------   31.62 %
-Go                45 hrs 39 mins  >>>>>--------------------   18.20 %
-HTML              7 hrs 34 mins   >------------------------   03.02 %
-SCSS              5 hrs 24 mins   >------------------------   02.16 %
-YAML              4 hrs 33 mins   -------------------------   01.82 %
+TypeScript   3 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   47.27 %
+HTML         2 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.10 %
+Python       1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
