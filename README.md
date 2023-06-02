@@ -25,7 +25,7 @@
 <h2>How Much I Spent The Week In Programming?</h2>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
