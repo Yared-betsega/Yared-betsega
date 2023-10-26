@@ -1,4 +1,6 @@
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FYared-betsega%2FYared-betsega"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYared-betsega%2FYared-betsega&countColor=%23263759" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FYared-betsega%2FYared-betsega">
+  <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYared-betsega%2FYared-betsega&countColor=%23263759" />
+</a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
