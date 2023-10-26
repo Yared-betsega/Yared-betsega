@@ -7,7 +7,42 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Yared+Tsegaye;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<p align="center">
+  Hi, I'm Yared Tsegaye, a Software Engineer & Competitive Programmer from ETHIOPIA
+  <br>
+  <br>
+  👨‍🎓 I'm currently a Head of Remote UnderGrad Education at A2SV-Africa To Silicon Valley
+  <br>
+  💻 I love Writing code, Problem Solving, and learning anything about them 😊
+  <br>
+  📚 I’m currently focusing on Data Science 
+  <br>
+  📫 How to reach me 👇
+</p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/yared-tsegaye-63b961201/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
+  </a> 
+  <a href="mailto:yaredtsegaye120@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
+  </a> 
+  <a href="http://wa.me//251982985676">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23>
+  </a> 
+  <a href="https://t.me/HalemoGPA">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23>
+  </a>  
+  <a href="https://leetcode.com/Yared_betsega/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=23>
+  </a>
+  <a href="https://codeforces.com/profile/HGPA">
+    <img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23>
+  </a>
+</p>
+
+
 
 <h1>Personal Details</h1>
 
