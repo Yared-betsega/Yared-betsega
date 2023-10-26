@@ -31,13 +31,13 @@
   <a href="http://wa.me//251982985676">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23>
   </a> 
-  <a href="https://t.me/HalemoGPA">
+  <a href="https://t.me/yared_tsega">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23>
   </a>  
   <a href="https://leetcode.com/Yared_betsega/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=23>
   </a>
-  <a href="https://codeforces.com/profile/HGPA">
+  <a href="https://codeforces.com/profile/yaredtsegaye">
     <img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23>
   </a>
 </p>
