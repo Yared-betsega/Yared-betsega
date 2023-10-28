@@ -58,18 +58,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
-<h1>Personal Details</h1>
-
-- 👋 Hi, I’m @Yared-betsega
-- 👀 I’m interested in coding, football
-- 🌱 I’m currently learning Software Engineering in Addis Ababa University.
-- 💞️ I’m looking to collaborate on
-- 💞️ Mobile app developement with flutter,
-- 💞️ Web Developement...
-- Front-end developement with React and nextJs, Tailwind and bootstrab,
-- Back-end developement with node using Express.js, mongoDB
-- Spring-Boot using Java with mysql database
-- 📫 How to reach me: yaredtsegaye120@gmail.com
 
 <div style="width:100%; overflow:auto;">
 <div style="width:50%; float:left;">
