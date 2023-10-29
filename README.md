@@ -28,6 +28,9 @@
   <a href="mailto:yaredtsegaye120@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
   </a> 
+  <a href="https://website-q4a65n2r0-yaredtsegaye120-gmailcom.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23>
+  </a>
   <a href="http://wa.me//251982985676">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23>
   </a> 
