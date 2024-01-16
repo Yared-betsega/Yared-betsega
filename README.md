@@ -10,7 +10,7 @@
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Yared Tsegaye, a Software Engineer & Competitive Programmer from ETHIOPIA
+  Hi, I'm Yosef Tsegaye, a Software Engineer & Competitive Programmer from ETHIOPIA
   <br>
   <br>
   👨‍🎓 I'm currently a Head of Remote UnderGrad Education at A2SV-Africa To Silicon Valley
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/yared-tsegaye-63b961201/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
   </a> 
-  <a href="mailto:yaredtsegaye120@gmail.com">
+  <a href="mailto:yadajossy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
   </a> 
   <a href="https://website-q4a65n2r0-yaredtsegaye120-gmailcom.vercel.app/">
