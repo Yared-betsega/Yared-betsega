@@ -4,13 +4,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Yosef+Tsegaye;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Yared+Tsegaye;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Yosef Tsegaye, a Software Engineer & Competitive Programmer from ETHIOPIA
+  Hi, I'm Yared Tsegaye, a Software Engineer & Competitive Programmer from ETHIOPIA
   <br>
   <br>
   👨‍🎓 I'm currently a Head of Remote UnderGrad Education at A2SV-Africa To Silicon Valley
