@@ -77,7 +77,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 27 August 2022 - To: 09 January 2025
+
+Total Time: 268 hrs 49 mins
+
+Python            97 hrs 42 mins  >>>>>>>>>----------------   36.34 %
+TypeScript        80 hrs 46 mins  >>>>>>>>-----------------   30.05 %
+Go                45 hrs 59 mins  >>>>---------------------   17.11 %
+HTML              10 hrs 2 mins   >------------------------   03.73 %
+SCSS              5 hrs 24 mins   >------------------------   02.01 %
 ```
 
 <!--END_SECTION:waka-->
