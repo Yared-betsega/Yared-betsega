@@ -68,7 +68,7 @@
 
  <a href="https://leetcode.com/u/LovinsonDieujuste/" target="_blank">
   <img
-    src="https://leetcard.jacoblin.cool/yaredtsegaye?theme=dark&font=Acme&ext=contest"
+    src="https://leetcard.jacoblin.cool/Yared_betsega?theme=dark&font=Acme&ext=contest"
     alt="LeetCode Profile"
   />
 </a>
