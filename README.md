@@ -77,8 +77,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </div>
 <div style="width:50%; float:right;">
-<h2>Mostly Used Programming Languages</h2>
-<img src="https://wakatime.com/share/@yared/2ea83f02-29da-45b1-ac83-e77e61ce9fc0.svg" width="60%" height="20%" />
 </div>
 </div>
 
@@ -90,11 +88,3 @@
   
 
 
-<h2>How Much I Spent The Week In Programming?</h2>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
