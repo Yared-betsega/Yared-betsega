@@ -82,6 +82,14 @@
 </div>
 </div>
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yared-betsega&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Yared-betsega" /></p>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yared-betsega&theme=holi-theme&hide_border=false" alt="Yared-betsega" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-betsega&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Yared-betsega" /></p>
+     <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Yared-betsega&theme=react-dark" alt="Yared-betsega" /></p>
+
+  
+
+
 <h2>How Much I Spent The Week In Programming?</h2>
 <!--START_SECTION:waka-->
 
