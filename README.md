@@ -12,17 +12,17 @@
 
 ### 👨‍💻 About Me  
 <p align="center">
-  I'm <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about building data-driven, intelligent solutions.  
+  I'm <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about building intelligent, data-driven systems.  
   <br><br>
   🎓 <b>MS in Data Science</b> student at <b>Fordham University</b>  
-  💼 Experience in AI, ML, Full-Stack, and Reinforcement Learning  
+  💼 Experienced in AI, ML, Full-Stack, and Reinforcement Learning  
   🌍 Based in New York City | Originally from Ethiopia 🇪🇹  
-  💬 I love solving complex problems, mentoring, and building systems that make an impact.
+  💬 I enjoy solving complex problems, mentoring, and building tools that make a real impact.
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub & Coding Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yared-betsega&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
@@ -31,6 +31,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-betsega&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Yared_betsega/">
+    <img src="https://leetcard.jacoblin.cool/Yared_betsega?theme=dark&font=Acme&ext=contest" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -43,86 +49,56 @@
 
 ---
 
-## 🏫 Education  
-
 <details>
-  <summary><b>🎓 Fordham University — M.S. in Data Science (Aug 2025 – May 2027)</b></summary>
-  <p>
+  <summary><h2>🏫 Education</h2></summary>
+
+  **🎓 Fordham University** — *M.S. in Data Science (Aug 2025 – May 2027)*  
   📍 New York, USA  
   - Coursework: Data Mining, Machine Learning, Reinforcement Learning, Algorithms for Data Science  
-  - Researching combinatorial optimization and RL-based improvements for ILP problems.  
-  </p>
-</details>
+  - Researching combinatorial optimization and RL-based improvements for ILP problems  
 
-<details>
-  <summary><b>🎓 Addis Ababa University — B.S. in Software Engineering (Sep 2019 – Jul 2024)</b></summary>
-  <p>
-  📍 Addis Ababa, Ethiopia — GPA: <b>3.75 / 4.0</b>  
+  **🎓 Addis Ababa University** — *B.S. in Software Engineering (Sep 2019 – Jul 2024)*  
+  📍 Addis Ababa, Ethiopia — GPA: **3.75 / 4.0**  
   - Coursework: Data Structures, ML, AI, Web & Mobile Dev, Cybersecurity  
-  - Led multiple AI-driven projects with real-world community impact.  
-  </p>
-</details>
+  - Led multiple AI-driven projects with community impact  
 
-<details>
-  <summary><b>🎓 A2SV – Africa to Silicon Valley (Dec 2021 – Nov 2022)</b></summary>
-  <p>
+  **🎓 A2SV – Africa to Silicon Valley** — *Data Structures & Algorithms (Dec 2021 – Nov 2022)*  
   📍 Addis Ababa, Ethiopia  
-  - Intensive training in Algorithms, Data Structures, and Problem Solving.  
-  - Mentored peers and contributed to community coding initiatives.  
-  </p>
+  - Intensive training in Algorithms, Data Structures, and Problem Solving  
+  - Mentored peers and contributed to community coding programs  
+
 </details>
 
 ---
 
-## 💼 Experience  
-
 <details>
-  <summary><b>Graduate Research Assistant — Fordham University (Aug 2025 – Present)</b></summary>
-  <p>
-  - Working on combinatorial optimization using Integer & Mixed Integer Linear Programming.  
-  - Exploring Reinforcement Learning for optimization improvement.  
-  </p>
-</details>
+  <summary><h2>💼 Experience</h2></summary>
 
-<details>
-  <summary><b>Python Developer / Data Scientist — Turing (May 2025 – Aug 2025)</b></summary>
-  <p>
-  - Evaluated LLM model performance in text & code generation using RLHF techniques.  
-  - Collaborated with AI teams to fine-tune and benchmark generative models.  
-  </p>
-</details>
+  **Graduate Research Assistant — Fordham University** *(Aug 2025 – Present)*  
+  - Working on combinatorial optimization using Integer & Mixed Integer Linear Programming  
+  - Exploring Reinforcement Learning to enhance optimization efficiency  
 
-<details>
-  <summary><b>Full Stack Developer / RAG Engineer — BidWiseAI (Feb 2025 – Aug 2025)</b></summary>
-  <p>
-  - Built a RAG pipeline for document-based QA using Gemini API.  
-  - Designed pixel-perfect UIs (React) and deployed FastAPI backends via Azure Container Apps.  
-  </p>
-</details>
+  **Python Developer / Data Scientist — Turing** *(May 2025 – Aug 2025)*  
+  - Evaluated LLM model performance on text and code generation using RLHF techniques  
+  - Collaborated with AI teams to fine-tune and benchmark generative models  
 
-<details>
-  <summary><b>Frontend & Security Engineer — IPVideo (Aug 2024 – Jan 2025)</b></summary>
-  <p>
-  - Developed a CCTV camera tracking app with React Native & Strapi.  
-  - Used OpenCV + multiple LLMs (OpenAI, Claude, Gemini) for real-time object detection.  
-  - Enhanced app security with input validation and XSS protection.  
-  </p>
-</details>
+  **Full Stack Developer / RAG Engineer — BidWiseAI** *(Feb 2025 – Aug 2025)*  
+  - Built RAG pipelines for document-based QA using Gemini API  
+  - Developed pixel-perfect UIs (React) and FastAPI backends deployed on Azure Container Apps  
 
-<details>
-  <summary><b>Mobile Developer — Eskalate (Feb 2023 – Jun 2023)</b></summary>
-  <p>
-  - Built a Flutter-based Ride-Sharing app with clean TDD architecture.  
-  - Improved A2SV portal serving 3K+ users; achieved 98% test coverage.  
-  </p>
-</details>
+  **Frontend & Security Engineer — IPVideo** *(Aug 2024 – Jan 2025)*  
+  - Created a CCTV camera tracking app with React Native and Strapi  
+  - Integrated OpenCV & multiple LLMs (OpenAI, Claude, Gemini) for object detection and notifications  
+  - Improved app security via input validation and XSS protection  
 
-<details>
-  <summary><b>Full Stack Developer — Temari-Bet (Mar 2022 – Jun 2022)</b></summary>
-  <p>
-  - Created a tutoring platform using Next.js & Node.js.  
-  - Migrated storage from MongoDB to AWS S3 for scalability and data safety.  
-  </p>
+  **Mobile App Developer — Eskalate** *(Feb 2023 – Jun 2023)*  
+  - Built Flutter-based Ride-Sharing app with clean TDD architecture  
+  - Enhanced A2SV portal serving 3K+ users; achieved 98% test coverage  
+
+  **Full Stack Developer — Temari-Bet** *(Mar 2022 – Jun 2022)*  
+  - Developed tutoring platform with Next.js & Node.js  
+  - Migrated data storage from MongoDB to AWS S3 for scalability  
+
 </details>
 
 ---
@@ -132,9 +108,9 @@
 | Project | Description | Tech |
 |---|---|---|
 | **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model with LoRA for conversational Amharic Q&A to assist farmers. | Python, NLP, Speech Recognition |
-| **BidWiseAI RAG Pipeline** | Document retrieval and QA system for procurement automation. | FastAPI, React, Docker, Azure |
-| **AI-Driven CCTV Detection** | Intelligent motion detection & alert system using OpenCV + LLMs. | React Native, Strapi, OpenAI APIs |
-| **RideShare App** | Flutter-based app using Google Maps & Firebase with test-driven structure. | Flutter, Dart, Firebase |
+| **BidWiseAI RAG Pipeline** | Document retrieval & QA system for procurement automation. | FastAPI, React, Docker, Azure |
+| **AI-Driven CCTV Detection** | Real-time detection & alert system using OpenCV + LLMs. | React Native, Strapi, OpenAI APIs |
+| **RideShare App** | Flutter-based ride-sharing app using Google Maps & Firebase. | Flutter, Dart, Firebase |
 
 ---
 
@@ -142,18 +118,18 @@
 
 - 🥈 2nd Place — Ethiopian Collegiate Programming Contest (EtCPC → ACPC Egypt)  
 - 🏆 Winner — Eskalate Hackathon ($10,000 total prize)  
-- 🎤 Featured on National TV for AI-powered agricultural innovation  
-- 📜 IELTS 7.5 Overall  
+- 🎤 Featured on National TV for AI-powered agriculture projects  
+- 📜 IELTS Overall Score: 7.5  
 
 ---
 
 ## 🤝 Volunteering  
 
 **Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
-- Introduced high school students to Python, data structures, and algorithms.  
+- Taught Python, data structures, and algorithms to high school students  
 
 **AI Trainer — Addis Ababa Institute of Technology**  
-- Created a voice-based Amharic assistant for farmers using LLaMA & LoRA.  
+- Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
 
 ---
 
