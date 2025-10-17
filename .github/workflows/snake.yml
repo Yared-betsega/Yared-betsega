@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: Yared-betsega
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-dimmed
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7aa2f7&color_dots=#24283b,#414868,#7dcfff,#bb9af7,#9ece6a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
