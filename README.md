@@ -33,6 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-betsega&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
+### 📊 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/Yared_betsega/">
     <img src="https://leetcard.jacoblin.cool/Yared_betsega?theme=dark&font=Acme&ext=contest" alt="LeetCode Stats" />
