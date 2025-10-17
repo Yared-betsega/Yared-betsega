@@ -1,4 +1,4 @@
-name: Generate Snake (Tokyo Night)
+name: Generate Snake (Tokyo Night Storm)
 
 on:
   schedule:
@@ -13,16 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Tokyo Night snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Yared-betsega
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#7aa2f7&color_dots=#24283b,#414868,#7dcfff,#bb9af7,#9ece6a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7aa2f7&color_dots=#1a1b26,#24283b,#292e42,#7dcfff,#bb9af7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated snake to output branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
