@@ -63,9 +63,45 @@
 
 ### ⚙️ Tech Stack  
 
+#### 🧑‍💻 Programming & Scripting  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flutter,fastapi,tensorflow,pytorch,sklearn,mysql,mongodb,azure,aws,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,rust,go" />
 </p>
+<p align="center">
+  <b>Languages:</b> Python, Java, JavaScript/TypeScript, C/C++, Rust, Go
+</p>
+
+---
+
+#### 📊 Data Science & Machine Learning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+</p>
+<p align="center">
+  <b>Skills:</b> TensorFlow, PyTorch, Scikit-learn, Pandas, Machine Learning, Data Mining,  
+  Probability & Statistics, Reinforcement Learning
+</p>
+
+---
+
+#### 🌐 Web & Mobile Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,django,fastapi,flask,nodejs,express,react,flutter,mysql,postgresql,mongodb" />
+</p>
+<p align="center">
+  <b>Frameworks:</b> MERN, MEAN, React, Angular, Django, FastAPI, Flask, Node, Express, React Native, Flutter, MySql, Postgresql, MongoDB
+</p>
+
+---
+
+#### ⚙️ Tools & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,azure,linux,aws,gcp,selenium" />
+</p>
+<p align="center">
+  Docker, Git, CI/CD, Azure DevOps, Linux Systems, Selenium, Hadoop, AWS, GCP, Object-Oriented Programming, Cloud Services, Microservices
+</p>
+
 
 ---
 
