@@ -40,6 +40,27 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yared-betsega&theme=tokyonight&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yared-betsega&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 💡 Developer Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ### ⚙️ Tech Stack  
 
 <p align="center">
@@ -123,7 +144,7 @@
   <summary><h3>🤝 Volunteering</h3></summary>
 
   **Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
-  - Taught Python, data structures, and algorithms to high school students as an assitant for Prof. Jelani Nelson
+  - Taught Python, data structures, and algorithms to high school students as an assistant for Prof. Jelani Nelson  
 
   **AI Trainer — Addis Ababa Institute of Technology**  
   - Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
