@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Turning+Data+and+Ideas+into+Impact" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hi,+I'm+Yared+Tsegaye+Gizaw+👋;Software+Engineer+|+Data+Scientist;Turning+Data+and+Ideas+into+Impact" />
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me  
 <p align="center">
-  I'm <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about building intelligent, data-driven systems.  
+  I'm <b>Yared</b> — a Software Engineer and Data Scientist passionate about building intelligent, data-driven systems.  
   <br><br>
   🎓 <b>MS in Data Science</b> student at <b>Fordham University</b>  
   💼 Experienced in AI, ML, Full-Stack, and Reinforcement Learning  
@@ -132,7 +132,7 @@
   <summary><h3>🤝 Volunteering</h3></summary>
 
   **Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
-  - Taught Python, data structures, and algorithms to high school students  
+  - Taught Python, data structures, and algorithms to high school students as an assitant for Prof. Jelani Nelson
 
   **AI Trainer — Addis Ababa Institute of Technology**  
   - Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
