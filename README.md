@@ -201,3 +201,6 @@
 
 <h4 align="center">💬 “Code. Learn. Evolve.”</h4>
 <p align="center">Building intelligent systems that make a difference — one commit at a time.</p>
+
+![GitHub Snake dark](https://github.com/Yared-betsega/Yared-betsega/blob/output/snake.svg)
+
