@@ -45,7 +45,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flutter,fastapi,tensorflow,pytorch,sklearn,mysql,mongodb,azure,aws,docker,git,linux" />
 </p>
+
 ---
+
 <details>
   <summary><h3>🏫 Education</h3></summary>
 
@@ -107,6 +109,7 @@
   | **RideShare App** | Flutter-based ride-sharing app using Google Maps & Firebase. | Flutter, Dart, Firebase |
 
 </details>
+
 <details>
   <summary><h3>🏅 Achievements</h3></summary>
 
@@ -115,6 +118,7 @@
   - 🎤 Featured on National TV for AI-powered agricultural projects  
 
 </details>
+
 <details>
   <summary><h3>🤝 Volunteering</h3></summary>
 
