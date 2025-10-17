@@ -8,8 +8,6 @@
   </a>
 </h1>
 
----
-
 ### 👨‍💻 About Me  
 <p align="center">
   I'm <b>Yared</b> — a Software Engineer and Data Scientist passionate about building intelligent, data-driven systems.  
@@ -47,7 +45,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flutter,fastapi,tensorflow,pytorch,sklearn,mysql,mongodb,azure,aws,docker,git,linux" />
 </p>
-
 ---
 <details>
   <summary><h3>🏫 Education</h3></summary>
@@ -68,7 +65,6 @@
   - Mentored peers and contributed to coding outreach programs  
 
 </details>
-
 ---
 <details>
   <summary><h3>💼 Experience</h3></summary>
@@ -99,7 +95,6 @@
   - Migrated data storage from MongoDB to AWS S3 for scalability  
 
 </details>
-
 ---
 <details>
   <summary><h3>🧠 Projects</h3></summary>
@@ -112,7 +107,6 @@
   | **RideShare App** | Flutter-based ride-sharing app using Google Maps & Firebase. | Flutter, Dart, Firebase |
 
 </details>
-
 ---
 <details>
   <summary><h3>🏅 Achievements</h3></summary>
@@ -134,7 +128,6 @@
   - Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
 
 </details>
-
 ---
 
 ### 🌐 Connect with Me  
