@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Building+Smart+and+Scalable+Solutions" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Turning+Data+and+Ideas+into+Impact" />
   </a>
 </h1>
 
@@ -12,13 +12,12 @@
 
 ### 👨‍💻 About Me  
 <p align="center">
-  I’m <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about creating data-driven, impactful technology.  
+  I'm <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about building data-driven, intelligent solutions.  
   <br><br>
   🎓 <b>MS in Data Science</b> student at <b>Fordham University</b>  
-  💼 Experience in AI, ML, Full-Stack, and Reinforcement Learning projects  
-  🚀 Previously at <b>Turing</b>, <b>BidWiseAI</b>, <b>IPVideo</b>, <b>Eskalate</b>, and <b>Temari-Bet</b>  
+  💼 Experience in AI, ML, Full-Stack, and Reinforcement Learning  
   🌍 Based in New York City | Originally from Ethiopia 🇪🇹  
-  💬 I love solving complex problems, mentoring, and turning ideas into real products.
+  💬 I love solving complex problems, mentoring, and building systems that make an impact.
 </p>
 
 ---
@@ -44,82 +43,117 @@
 
 ---
 
-### 🏫 Education  
+## 🏫 Education  
 
-🎓 **Fordham University**, New York, USA *(Aug 2025 – May 2027)*  
-M.S. in Data Science  
-- Coursework: Data Mining, Machine Learning, Reinforcement Learning, Algorithms for DS  
+<details>
+  <summary><b>🎓 Fordham University — M.S. in Data Science (Aug 2025 – May 2027)</b></summary>
+  <p>
+  📍 New York, USA  
+  - Coursework: Data Mining, Machine Learning, Reinforcement Learning, Algorithms for Data Science  
+  - Researching combinatorial optimization and RL-based improvements for ILP problems.  
+  </p>
+</details>
 
-🎓 **Addis Ababa University**, Ethiopia *(Sep 2019 – Jul 2024)*  
-B.S. in Software Engineering — GPA: **3.75 / 4.0**  
-- Coursework: Data Structures, ML, AI, Cybersecurity, Web & Mobile Dev  
+<details>
+  <summary><b>🎓 Addis Ababa University — B.S. in Software Engineering (Sep 2019 – Jul 2024)</b></summary>
+  <p>
+  📍 Addis Ababa, Ethiopia — GPA: <b>3.75 / 4.0</b>  
+  - Coursework: Data Structures, ML, AI, Web & Mobile Dev, Cybersecurity  
+  - Led multiple AI-driven projects with real-world community impact.  
+  </p>
+</details>
 
-🎓 **A2SV – Africa to Silicon Valley** *(Dec 2021 – Nov 2022)*  
-Data Structures & Algorithms Intensive  
-
----
-
-### 💼 Experience  
-
-**Graduate Research Assistant — Fordham University** *(Aug 2025 – Present, New York)*  
-- Researching combinatorial optimization using Integer and Mixed Integer Linear Programming.  
-- Exploring Reinforcement Learning to enhance optimization efficiency.  
-
-**Python Developer & AI Trainer — Turing** *(May 2025 – Aug 2025, Palo Alto, CA)*  
-- Evaluated LLM performance in text/code generation using RLHF techniques.  
-
-**Full Stack Developer / RAG Engineer — BidWiseAI** *(Feb 2025 – Aug 2025, London, UK)*  
-- Built RAG pipelines for procurement document analysis using Gemini API.  
-- Developed pixel-perfect UIs (React) and FastAPI services deployed via Azure Container Apps.  
-
-**Frontend & Security Engineer — IPVideo** *(Aug 2024 – Jan 2025, London, UK)*  
-- Built a CCTV camera tracking app with React Native + Strapi.  
-- Integrated OpenCV & multiple LLMs for object detection, adding real-time alerts.  
-
-**Mobile App Developer — Eskalate** *(Feb 2023 – Jun 2023, San Francisco)*  
-- Built a Flutter-based Ride-Sharing app with 98% test coverage.  
-- Enhanced A2SV Portal serving 3K+ users.  
-
-**Full Stack Developer — Temari-Bet** *(Mar 2022 – Jun 2022, Addis Ababa)*  
-- Developed a tutor-parent platform using Next.js, Node.js, and Express.  
-- Migrated storage systems from MongoDB to AWS S3 for scalability.  
+<details>
+  <summary><b>🎓 A2SV – Africa to Silicon Valley (Dec 2021 – Nov 2022)</b></summary>
+  <p>
+  📍 Addis Ababa, Ethiopia  
+  - Intensive training in Algorithms, Data Structures, and Problem Solving.  
+  - Mentored peers and contributed to community coding initiatives.  
+  </p>
+</details>
 
 ---
 
-### 🧠 Projects  
+## 💼 Experience  
+
+<details>
+  <summary><b>Graduate Research Assistant — Fordham University (Aug 2025 – Present)</b></summary>
+  <p>
+  - Working on combinatorial optimization using Integer & Mixed Integer Linear Programming.  
+  - Exploring Reinforcement Learning for optimization improvement.  
+  </p>
+</details>
+
+<details>
+  <summary><b>Python Developer / Data Scientist — Turing (May 2025 – Aug 2025)</b></summary>
+  <p>
+  - Evaluated LLM model performance in text & code generation using RLHF techniques.  
+  - Collaborated with AI teams to fine-tune and benchmark generative models.  
+  </p>
+</details>
+
+<details>
+  <summary><b>Full Stack Developer / RAG Engineer — BidWiseAI (Feb 2025 – Aug 2025)</b></summary>
+  <p>
+  - Built a RAG pipeline for document-based QA using Gemini API.  
+  - Designed pixel-perfect UIs (React) and deployed FastAPI backends via Azure Container Apps.  
+  </p>
+</details>
+
+<details>
+  <summary><b>Frontend & Security Engineer — IPVideo (Aug 2024 – Jan 2025)</b></summary>
+  <p>
+  - Developed a CCTV camera tracking app with React Native & Strapi.  
+  - Used OpenCV + multiple LLMs (OpenAI, Claude, Gemini) for real-time object detection.  
+  - Enhanced app security with input validation and XSS protection.  
+  </p>
+</details>
+
+<details>
+  <summary><b>Mobile Developer — Eskalate (Feb 2023 – Jun 2023)</b></summary>
+  <p>
+  - Built a Flutter-based Ride-Sharing app with clean TDD architecture.  
+  - Improved A2SV portal serving 3K+ users; achieved 98% test coverage.  
+  </p>
+</details>
+
+<details>
+  <summary><b>Full Stack Developer — Temari-Bet (Mar 2022 – Jun 2022)</b></summary>
+  <p>
+  - Created a tutoring platform using Next.js & Node.js.  
+  - Migrated storage from MongoDB to AWS S3 for scalability and data safety.  
+  </p>
+</details>
+
+---
+
+## 🧠 Projects  
 
 | Project | Description | Tech |
 |---|---|---|
-| **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model using LoRA for Amharic Q&A with farmers. | Python, NLP, Speech Recognition |
-| **BidWiseAI RAG Pipeline** | RAG system that answers procurement-related questions with Gemini API. | FastAPI, React, Docker, Azure |
-| **AI-Driven CCTV Detection** | Real-time detection and alert system for suspicious motion in video streams. | React Native, OpenCV, LLMs |
-| **RideShare App** | Flutter-based ride-sharing app with Google Maps and TDD architecture. | Flutter, Dart, Firebase |
+| **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model with LoRA for conversational Amharic Q&A to assist farmers. | Python, NLP, Speech Recognition |
+| **BidWiseAI RAG Pipeline** | Document retrieval and QA system for procurement automation. | FastAPI, React, Docker, Azure |
+| **AI-Driven CCTV Detection** | Intelligent motion detection & alert system using OpenCV + LLMs. | React Native, Strapi, OpenAI APIs |
+| **RideShare App** | Flutter-based app using Google Maps & Firebase with test-driven structure. | Flutter, Dart, Firebase |
 
 ---
 
-### 🏅 Achievements  
+## 🏅 Achievements  
 
-- 🥈 **2nd Place – Ethiopian Collegiate Programming Contest (EtCPC)** → Advanced to ACPC, Egypt  
-- 🏆 **Winner – Eskalate Hackathon** ($10,000 prize for Atrons & RideShare projects)  
-- 🎤 Featured on **National TV** for AI projects impacting Ethiopian agriculture  
-- 🎓 **IELTS:** 7.5 overall  
+- 🥈 2nd Place — Ethiopian Collegiate Programming Contest (EtCPC → ACPC Egypt)  
+- 🏆 Winner — Eskalate Hackathon ($10,000 total prize)  
+- 🎤 Featured on National TV for AI-powered agricultural innovation  
+- 📜 IELTS 7.5 Overall  
 
 ---
 
-### 🤝 Volunteering  
+## 🤝 Volunteering  
 
 **Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
-- Taught Python, data structures, and algorithms to high school students in Addis Ababa.  
+- Introduced high school students to Python, data structures, and algorithms.  
 
 **AI Trainer — Addis Ababa Institute of Technology**  
-- Developed an Amharic voice-based agricultural system using LLaMA & LoRA fine-tuning.  
-
----
-
-### 💡 What I’m Learning  
-- Reinforcement Learning for optimization  
-- Advanced ML deployment and evaluation  
-- Open Source Data Science collaboration  
+- Created a voice-based Amharic assistant for farmers using LLaMA & LoRA.  
 
 ---
 
@@ -135,4 +169,4 @@ Data Structures & Algorithms Intensive
 ---
 
 <h3 align="center">💬 “Code. Learn. Evolve.”</h3>
-<p align="center">Building intelligent systems that make an impact — one commit at a time.</p>
+<p align="center">Building intelligent systems that make a difference — one commit at a time.</p>
