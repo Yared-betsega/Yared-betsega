@@ -49,7 +49,6 @@
 </p>
 
 ---
-
 <details>
   <summary><h3>🏫 Education</h3></summary>
 
@@ -71,7 +70,6 @@
 </details>
 
 ---
-
 <details>
   <summary><h3>💼 Experience</h3></summary>
 
@@ -103,7 +101,6 @@
 </details>
 
 ---
-
 <details>
   <summary><h3>🧠 Projects</h3></summary>
 
@@ -117,7 +114,6 @@
 </details>
 
 ---
-
 <details>
   <summary><h3>🏅 Achievements</h3></summary>
 
@@ -128,7 +124,6 @@
 </details>
 
 ---
-
 <details>
   <summary><h3>🤝 Volunteering</h3></summary>
 
