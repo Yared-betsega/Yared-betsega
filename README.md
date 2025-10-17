@@ -90,11 +90,10 @@
 
 ---
 
-### 📈 Contributions
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Yared-betsega/Yared-betsega/blob/output/snake.svg" alt="snake animation" />
+  <img src="https://github.com/Yared-betsega/Yared-betsega/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
 
 ---
 
