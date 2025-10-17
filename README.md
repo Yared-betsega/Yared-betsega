@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I’m+Yared+Tsegaye+👋;Software+Engineer+%7C+Data+Science+&+AI;Building+Products+|+Solving+Problems" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Building+Smart+and+Scalable+Solutions" />
   </a>
 </h1>
 
@@ -12,95 +12,18 @@
 
 ### 👨‍💻 About Me  
 <p align="center">
-  I’m **Yared Tsegaye** — a dedicated Software Engineer & Competitive Programmer from Addis Ababa, Ethiopia 🇪🇹.  
+  I’m <b>Yared Tsegaye</b> — a Software Engineer and Data Scientist passionate about creating data-driven, impactful technology.  
   <br><br>
-  🌟 Currently: Head of Remote Undergraduate Education at **A2SV – Africa to Silicon Valley**  
-  <br>
-  📚 Background in Full-Stack Development, Algorithms, Data Structures, and Data Science  
-  <br>
-  🎯 Passionate about creating scalable, performant systems, building beautiful frontend experiences, and exploring how AI can solve real-world problems.  
-  <br><br>
-  🔭 Currently working on:  
-    • Enhancing ML pipelines & model deployment  
-    • Exploring real-time data visualization tools  
-  <br>
-  💬 Always open to mentoring, collaboration, and learning together.
+  🎓 <b>MS in Data Science</b> student at <b>Fordham University</b>  
+  💼 Experience in AI, ML, Full-Stack, and Reinforcement Learning projects  
+  🚀 Previously at <b>Turing</b>, <b>BidWiseAI</b>, <b>IPVideo</b>, <b>Eskalate</b>, and <b>Temari-Bet</b>  
+  🌍 Based in New York City | Originally from Ethiopia 🇪🇹  
+  💬 I love solving complex problems, mentoring, and turning ideas into real products.
 </p>
 
 ---
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/yared-tsegaye-63b961201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="mailto:yadajossy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://website-q4a65n2r0-yaredtsegaye120-gmailcom.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4B8BBE?style=for-the-badge&logo=vercel&logoColor=white" height=25></a>
-  <a href="http://wa.me//251982985676"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a> 
-  <a href="https://t.me/yared_tsega"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>  
-  <a href="https://leetcode.com/Yared_betsega/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25></a>
-  <a href="https://codeforces.com/profile/yaredtsegaye"><img src="https://img.shields.io/badge/Codeforces-4456B5?style=for-the-badge&logo=codeforces&logoColor=white" height=25></a>
-</p>
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flutter,cpp,python,go,mongodb/mysql,firebase,git,linux,aws" />
-</p>
-
----
-
-## 🏆 Experience & Education
-
-<details>
-  <summary><strong>Professional Experience</strong></summary>
-  
-  **Head of Remote Undergraduate Education** — *A2SV – Africa to Silicon Valley*  
-  <br>📅 *Jan 2023 - Present*  
-  <br> • Leading remote teams and curriculum development for undergrad students  
-  <br> • Mentoring junior engineers, conducting workshops & coding bootcamps  
-  <br> • Coordinated multiple projects used by dozens of students  
-
-  <br>
-
-  **Software Engineer Intern / Freelance Projects**  
-  <br>📅 *Jun 2021 - Dec 2022*  
-  <br> • Built full‐stack web apps (React + Node.js), designed REST APIs, and integrated databases (MongoDB, MySQL)  
-  <br> • Improved app performance & deployed services on cloud platforms  
-
-</details>
-
-<details>
-  <summary><strong>Education</strong></summary>
-  
-  **B.Sc. in Computer Science** — *[Your University Name]*, Addis Ababa, Ethiopia  
-  <br>📅 *2020 - 2024 (expected / graduated, adjust as needed)*  
-  <br> • Relevant coursework: Algorithms & Data Structures, Database Systems, Machine Learning, Software Engineering  
-  <br> • Collaborated on capstone project(s) involving [brief project description]  
-
-</details>
-
----
-
-## 🌟 Selected Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **Project One** | A scalable web application for [problem]. Designed with performance, UI/UX, and user experience in mind. | React, Node.js, MongoDB, Docker | [Live](#) • [Repo](#) |
-| **Project Two** | Machine Learning model that solves [problem], with dataset pre-processing, feature engineering, and deployment. | Python, TensorFlow / PyTorch, AWS | [Demo](#) • [Repo](#) |
-| **Project Three** | Mobile or cross-platform app built with Flutter that solves [problem]. | Flutter, Firebase, REST APIs | [Play / App Store / Repo](#) |
-
----
-
-## 🔍 Certifications & Achievements
-
-- 🏅 Winner / finalist — **[Name of Hackathon]** – [Year]  
-- 🎓 Completed **[Name of Certification]** (e.g. Data Science, ML, etc.) – [Issuing Organization]  
-- 📚 Published / Presented — [Paper / Talk / Blog] (if any)  
-- 🏆 Competitive programming rank(s): e.g. *Top in [Contest], Codeforces rating, LeetCode contest performance, etc.*  
-
----
-
-## 📊 GitHub Stats & Activity
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yared-betsega&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
@@ -113,24 +36,103 @@
 
 ---
 
-## 🌱 What I’m Learning & Goals
-
-- Deepening my knowledge in **Machine Learning / Deep Learning** (Deploying models, experimentation)  
-- Exploring **Real-Time Data Visualization & Streaming Data**  
-- Contributing more to Open Source, especially Data Science / ML tools  
-- Building or participating in projects that make impact in education and access to tech
-
----
-
-## 📈 Activity Graph
+### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yared-betsega&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flutter,fastapi,tensorflow,pytorch,sklearn,mysql,mongodb,azure,aws,docker,git,linux" />
 </p>
 
 ---
 
-## 💬 “Code. Learn. Evolve.”
+### 🏫 Education  
 
-> Building tech that matters — one commit at a time.
+🎓 **Fordham University**, New York, USA *(Aug 2025 – May 2027)*  
+M.S. in Data Science  
+- Coursework: Data Mining, Machine Learning, Reinforcement Learning, Algorithms for DS  
 
+🎓 **Addis Ababa University**, Ethiopia *(Sep 2019 – Jul 2024)*  
+B.S. in Software Engineering — GPA: **3.75 / 4.0**  
+- Coursework: Data Structures, ML, AI, Cybersecurity, Web & Mobile Dev  
+
+🎓 **A2SV – Africa to Silicon Valley** *(Dec 2021 – Nov 2022)*  
+Data Structures & Algorithms Intensive  
+
+---
+
+### 💼 Experience  
+
+**Graduate Research Assistant — Fordham University** *(Aug 2025 – Present, New York)*  
+- Researching combinatorial optimization using Integer and Mixed Integer Linear Programming.  
+- Exploring Reinforcement Learning to enhance optimization efficiency.  
+
+**Python Developer & AI Trainer — Turing** *(May 2025 – Aug 2025, Palo Alto, CA)*  
+- Evaluated LLM performance in text/code generation using RLHF techniques.  
+
+**Full Stack Developer / RAG Engineer — BidWiseAI** *(Feb 2025 – Aug 2025, London, UK)*  
+- Built RAG pipelines for procurement document analysis using Gemini API.  
+- Developed pixel-perfect UIs (React) and FastAPI services deployed via Azure Container Apps.  
+
+**Frontend & Security Engineer — IPVideo** *(Aug 2024 – Jan 2025, London, UK)*  
+- Built a CCTV camera tracking app with React Native + Strapi.  
+- Integrated OpenCV & multiple LLMs for object detection, adding real-time alerts.  
+
+**Mobile App Developer — Eskalate** *(Feb 2023 – Jun 2023, San Francisco)*  
+- Built a Flutter-based Ride-Sharing app with 98% test coverage.  
+- Enhanced A2SV Portal serving 3K+ users.  
+
+**Full Stack Developer — Temari-Bet** *(Mar 2022 – Jun 2022, Addis Ababa)*  
+- Developed a tutor-parent platform using Next.js, Node.js, and Express.  
+- Migrated storage systems from MongoDB to AWS S3 for scalability.  
+
+---
+
+### 🧠 Projects  
+
+| Project | Description | Tech |
+|---|---|---|
+| **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model using LoRA for Amharic Q&A with farmers. | Python, NLP, Speech Recognition |
+| **BidWiseAI RAG Pipeline** | RAG system that answers procurement-related questions with Gemini API. | FastAPI, React, Docker, Azure |
+| **AI-Driven CCTV Detection** | Real-time detection and alert system for suspicious motion in video streams. | React Native, OpenCV, LLMs |
+| **RideShare App** | Flutter-based ride-sharing app with Google Maps and TDD architecture. | Flutter, Dart, Firebase |
+
+---
+
+### 🏅 Achievements  
+
+- 🥈 **2nd Place – Ethiopian Collegiate Programming Contest (EtCPC)** → Advanced to ACPC, Egypt  
+- 🏆 **Winner – Eskalate Hackathon** ($10,000 prize for Atrons & RideShare projects)  
+- 🎤 Featured on **National TV** for AI projects impacting Ethiopian agriculture  
+- 🎓 **IELTS:** 7.5 overall  
+
+---
+
+### 🤝 Volunteering  
+
+**Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
+- Taught Python, data structures, and algorithms to high school students in Addis Ababa.  
+
+**AI Trainer — Addis Ababa Institute of Technology**  
+- Developed an Amharic voice-based agricultural system using LLaMA & LoRA fine-tuning.  
+
+---
+
+### 💡 What I’m Learning  
+- Reinforcement Learning for optimization  
+- Advanced ML deployment and evaluation  
+- Open Source Data Science collaboration  
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yared-tsegaye-gizaw-63b961201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:ytg1@fordham.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://leetcode.com/Yared_betsega/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25></a>
+  <a href="https://github.com/Yared-betsega"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height=25></a>
+</p>
+
+---
+
+<h3 align="center">💬 “Code. Learn. Evolve.”</h3>
+<p align="center">Building intelligent systems that make an impact — one commit at a time.</p>
