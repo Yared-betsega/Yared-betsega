@@ -40,27 +40,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yared-betsega&theme=tokyonight&no-frame=true&margin-w=5" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yared-betsega&theme=github-compact&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 💡 Developer Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 ### ⚙️ Tech Stack  
 
 #### 🧑‍💻 Programming & Scripting  
@@ -102,6 +81,19 @@
   Docker, Git, CI/CD, Azure DevOps, Linux Systems, Selenium, Hadoop, AWS, GCP, Object-Oriented Programming, Cloud Services, Microservices
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yared-betsega&theme=tokyonight&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yared-betsega&theme=github-compact&hide_border=true" width="100%"/>
+</p>
 
 ---
 
@@ -186,6 +178,13 @@
   - Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
 
 </details>
+
+---
+
+### 💡 Developer Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
