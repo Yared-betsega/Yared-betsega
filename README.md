@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Turning+Data+and+Ideas+into+Impact" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hi,+I'm+Yared+Tsegaye+👋;Software+Engineer+|+Data+Scientist;Turning+Data+and+Ideas+into+Impact" />
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
   🎓 <b>MS in Data Science</b> student at <b>Fordham University</b>  
   💼 Experienced in AI, ML, Full-Stack, and Reinforcement Learning  
   🌍 Based in New York City | Originally from Ethiopia 🇪🇹  
-  💬 I enjoy solving complex problems, mentoring, and building tools that make a real impact.
+  💬 I enjoy solving complex problems, mentoring, and creating technology that drives real-world impact.
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ---
 
 <details>
-  <summary><h2>🏫 Education</h2></summary>
+  <summary><h3>🏫 Education</h3></summary>
 
   **🎓 Fordham University** — *M.S. in Data Science (Aug 2025 – May 2027)*  
   📍 New York, USA  
@@ -65,71 +65,79 @@
   **🎓 A2SV – Africa to Silicon Valley** — *Data Structures & Algorithms (Dec 2021 – Nov 2022)*  
   📍 Addis Ababa, Ethiopia  
   - Intensive training in Algorithms, Data Structures, and Problem Solving  
-  - Mentored peers and contributed to community coding programs  
+  - Mentored peers and contributed to coding outreach programs  
 
 </details>
 
 ---
 
 <details>
-  <summary><h2>💼 Experience</h2></summary>
+  <summary><h3>💼 Experience</h3></summary>
 
   **Graduate Research Assistant — Fordham University** *(Aug 2025 – Present)*  
   - Working on combinatorial optimization using Integer & Mixed Integer Linear Programming  
   - Exploring Reinforcement Learning to enhance optimization efficiency  
 
   **Python Developer / Data Scientist — Turing** *(May 2025 – Aug 2025)*  
-  - Evaluated LLM model performance on text and code generation using RLHF techniques  
+  - Evaluated LLM performance in text and code generation using RLHF techniques  
   - Collaborated with AI teams to fine-tune and benchmark generative models  
 
   **Full Stack Developer / RAG Engineer — BidWiseAI** *(Feb 2025 – Aug 2025)*  
   - Built RAG pipelines for document-based QA using Gemini API  
-  - Developed pixel-perfect UIs (React) and FastAPI backends deployed on Azure Container Apps  
+  - Developed pixel-perfect UIs (React) and deployed FastAPI backends via Azure Container Apps  
 
   **Frontend & Security Engineer — IPVideo** *(Aug 2024 – Jan 2025)*  
-  - Created a CCTV camera tracking app with React Native and Strapi  
-  - Integrated OpenCV & multiple LLMs (OpenAI, Claude, Gemini) for object detection and notifications  
-  - Improved app security via input validation and XSS protection  
+  - Created a CCTV camera tracking app with React Native & Strapi  
+  - Used OpenCV & multiple LLMs (OpenAI, Claude, Gemini) for real-time object detection  
+  - Strengthened app security via input validation and XSS protection  
 
   **Mobile App Developer — Eskalate** *(Feb 2023 – Jun 2023)*  
   - Built Flutter-based Ride-Sharing app with clean TDD architecture  
-  - Enhanced A2SV portal serving 3K+ users; achieved 98% test coverage  
+  - Improved A2SV portal serving 3K+ users; achieved 98% test coverage  
 
   **Full Stack Developer — Temari-Bet** *(Mar 2022 – Jun 2022)*  
-  - Developed tutoring platform with Next.js & Node.js  
+  - Built tutoring platform with Next.js & Node.js  
   - Migrated data storage from MongoDB to AWS S3 for scalability  
 
 </details>
 
 ---
 
-## 🧠 Projects  
+<details>
+  <summary><h3>🧠 Projects</h3></summary>
 
-| Project | Description | Tech |
-|---|---|---|
-| **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model with LoRA for conversational Amharic Q&A to assist farmers. | Python, NLP, Speech Recognition |
-| **BidWiseAI RAG Pipeline** | Document retrieval & QA system for procurement automation. | FastAPI, React, Docker, Azure |
-| **AI-Driven CCTV Detection** | Real-time detection & alert system using OpenCV + LLMs. | React Native, Strapi, OpenAI APIs |
-| **RideShare App** | Flutter-based ride-sharing app using Google Maps & Firebase. | Flutter, Dart, Firebase |
+  | Project | Description | Tech |
+  |---|---|---|
+  | **Voice-Based Agricultural Assistant (Amharic)** | Fine-tuned LLaMA model with LoRA for conversational Amharic Q&A to assist farmers. | Python, NLP, Speech Recognition |
+  | **BidWiseAI RAG Pipeline** | Document retrieval & QA system for procurement automation. | FastAPI, React, Docker, Azure |
+  | **AI-Driven CCTV Detection** | Real-time detection & alert system using OpenCV + LLMs. | React Native, Strapi, OpenAI APIs |
+  | **RideShare App** | Flutter-based ride-sharing app using Google Maps & Firebase. | Flutter, Dart, Firebase |
 
----
-
-## 🏅 Achievements  
-
-- 🥈 2nd Place — Ethiopian Collegiate Programming Contest (EtCPC → ACPC Egypt)  
-- 🏆 Winner — Eskalate Hackathon ($10,000 total prize)  
-- 🎤 Featured on National TV for AI-powered agriculture projects  
-- 📜 IELTS Overall Score: 7.5  
+</details>
 
 ---
 
-## 🤝 Volunteering  
+<details>
+  <summary><h3>🏅 Achievements</h3></summary>
 
-**Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
-- Taught Python, data structures, and algorithms to high school students  
+  - 🥈 2nd Place — Ethiopian Collegiate Programming Contest (EtCPC → ACPC Egypt)  
+  - 🏆 Winner — Eskalate Hackathon ($10,000 total prize)  
+  - 🎤 Featured on National TV for AI-powered agricultural projects  
 
-**AI Trainer — Addis Ababa Institute of Technology**  
-- Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
+</details>
+
+---
+
+<details>
+  <summary><h3>🤝 Volunteering</h3></summary>
+
+  **Teaching Assistant — AddisCoder 2023 (UC Berkeley / Prof. Jelani Nelson)**  
+  - Taught Python, data structures, and algorithms to high school students  
+
+  **AI Trainer — Addis Ababa Institute of Technology**  
+  - Created Amharic voice-based agricultural assistant using LLaMA + LoRA  
+
+</details>
 
 ---
 
@@ -144,5 +152,5 @@
 
 ---
 
-<h3 align="center">💬 “Code. Learn. Evolve.”</h3>
+<h4 align="center">💬 “Code. Learn. Evolve.”</h4>
 <p align="center">Building intelligent systems that make a difference — one commit at a time.</p>
